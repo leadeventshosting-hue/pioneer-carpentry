@@ -96,7 +96,7 @@ export default function ContactPage({ onNavigate }) {
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
     name: 'Pioneer Carpentry',
-    telephone: '+971 6 525 9878',
+    telephone: '+971 50 968 9671',
     email: 'info@pioneerexhibitions.ae',
     address: {
       '@type': 'PostalAddress',
@@ -162,11 +162,11 @@ export default function ContactPage({ onNavigate }) {
                 </button>
 
                 <a
-                  href="tel:+97165259878"
+                  href="tel:+971509689671"
                   className="inline-flex items-center gap-3 text-xs sm:text-sm font-mono tracking-wider text-charcoal hover:text-copper transition-colors py-2"
                 >
                   <span className="w-2 h-2 rounded-full bg-copper animate-pulse" />
-                  <span className="font-semibold">+971 6 525 9878</span>
+                  <span className="font-semibold">+971 50 968 9671</span>
                 </a>
               </div>
             </div>
@@ -185,7 +185,7 @@ export default function ContactPage({ onNavigate }) {
                   {/* Photograph Window */}
                   <div className="relative aspect-[4/3] overflow-hidden bg-[#1E1E1E]">
                     <img
-                      src="/images/contact-planning-desk.jpg"
+                      src="https://res.cloudinary.com/qxzn9vyt/image/upload/contact-planning-desk"
                       alt="Pioneer Carpentry fabrication planning table with architectural drawings, blueprints, timber samples and measuring tools"
                       className="w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-103"
                     />
@@ -834,7 +834,7 @@ export default function ContactPage({ onNavigate }) {
             
             {/* ROW 01 / CALL */}
             <a
-              href="tel:+97165259878"
+              href="tel:+971509689671"
               className="py-8 sm:py-12 flex flex-col md:flex-row md:items-center justify-between gap-4 group transition-colors hover:bg-white/[0.02] cursor-pointer"
             >
               <div className="flex items-baseline gap-4 sm:gap-8">
@@ -842,7 +842,7 @@ export default function ContactPage({ onNavigate }) {
                   01 / CALL
                 </span>
                 <span className="text-2xl sm:text-4xl lg:text-5xl font-display font-bold tracking-tight text-white group-hover:text-copper transition-colors">
-                  +971 6 525 9878
+                  +971 50 968 9671
                 </span>
               </div>
               <div className="flex items-center gap-3 text-white/50 group-hover:text-copper transition-colors">
@@ -881,7 +881,7 @@ export default function ContactPage({ onNavigate }) {
                 </span>
               </div>
               <a
-                href="https://maps.google.com/?q=Warehouse+1+Sheikh+Khalifa+Bin+Zayed+Al+Nahyan+Rd+Industrial+Area+4+Sharjah+UAE"
+                href="https://maps.app.goo.gl/pjGaMJmP8q9UH3bx8"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 text-white/50 hover:text-copper transition-colors cursor-pointer"

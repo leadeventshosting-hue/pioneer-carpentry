@@ -89,7 +89,7 @@ export default function CapabilitiesProcess() {
         {/* Wide Cinematic Workshop Visual */}
         <div className="relative aspect-[21/9] sm:aspect-[16/7] w-full overflow-hidden bg-charcoal border border-white/10 shadow-architectural-dark mb-14 sm:mb-16 group">
           <img
-            src="/images/trans-02-workshop.jpg"
+            src="https://res.cloudinary.com/qxzn9vyt/image/upload/fabrication"
             alt="Pioneer Carpentry Sharjah Workshop - Custom Exhibition Fabrication & Woodworking UAE"
             className="w-full h-full object-cover brightness-[0.8] group-hover:scale-102 transition-transform duration-700"
           />

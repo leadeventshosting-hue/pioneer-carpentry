@@ -91,7 +91,7 @@ export default function QuoteModal({ isOpen, onClose }) {
                 Our senior fabrication estimator will review your specifications and contact you within 24 hours.
               </p>
               <div className="pt-4 border-t border-white/10 text-xs font-mono text-white/50 space-y-1">
-                <div>Direct Line: <a href="tel:+97165259878" className="text-copper hover:underline">+971 6 525 9878</a></div>
+                <div>Direct Line: <a href="tel:+971509689671" className="text-copper hover:underline">+971 50 968 9671</a></div>
                 <div>Email: <a href="mailto:info@pioneerexhibitions.ae" className="text-copper hover:underline">info@pioneerexhibitions.ae</a></div>
               </div>
               <button

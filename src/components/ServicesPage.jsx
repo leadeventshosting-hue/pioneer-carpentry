@@ -433,7 +433,7 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
       category: 'Exhibitions & Pavilions',
       group: 'exhibitions',
       desc: 'Turnkey double-deck stands, bespoke island pavilions, and venue-compliant joinery.',
-      image: '/service/1.png',
+      image: 'https://res.cloudinary.com/qxzn9vyt/image/upload/21',
       meta: 'FULL VENUE COMPLIANCE • CNC JOINERY • RAPID HANDOVER'
     },
     {
@@ -444,7 +444,7 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
       category: 'Events & Scenography',
       group: 'staging',
       desc: 'Engineered keynote platforms, plenary stages, and custom curved audience sightlines.',
-      image: '/service/2.png',
+      image: 'https://res.cloudinary.com/qxzn9vyt/image/upload/22',
       meta: 'LOAD-CALCULATED • INTEGRATED ACCESS • NON-SLIP FINISH'
     },
     {
@@ -455,7 +455,7 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
       category: 'Media Walls & Backdrops',
       group: 'staging',
       desc: 'Architectural media walls, 3D geometric acoustic paneling, and seamless fabric tensioning.',
-      image: '/service/3.png',
+      image: 'https://res.cloudinary.com/qxzn9vyt/image/upload/23',
       meta: 'ZERO LIGHT BLEED • SEAMLESS BRANDING • RIGID ALIGNMENT'
     },
     {
@@ -466,7 +466,7 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
       category: 'Commercial & Retail Modules',
       group: 'commercial',
       desc: 'Luxury mall kiosks, reception desks, VIP bar counters, and experiential display islands.',
-      image: '/service/4.png',
+      image: 'https://res.cloudinary.com/qxzn9vyt/image/upload/24',
       meta: 'CONCEALED STORAGE • WARM ACCENT LED • REINFORCED CHASSIS'
     },
     {
@@ -477,7 +477,7 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
       category: 'Experiential Environments',
       group: 'exhibitions',
       desc: 'Immersive walk-through tunnels, photo opportunity installations, and sensory brand cubes.',
-      image: '/service/5.png',
+      image: 'https://res.cloudinary.com/qxzn9vyt/image/upload/25',
       meta: 'HIGH-TRAFFIC RESILIENT • INTERACTIVE AV READY • MODULAR'
     },
     {
@@ -488,7 +488,7 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
       category: 'Corporate Environments',
       group: 'staging',
       desc: 'Boardroom staging, gala dinner installations, annual summit scenic fabrications, and VIP lounges.',
-      image: '/service/6.png',
+      image: 'https://res.cloudinary.com/qxzn9vyt/image/upload/26',
       meta: 'EXECUTIVE FINISH • CONCEALED WIRING • 24/7 OVERNIGHT BUILD'
     },
     {
@@ -499,7 +499,7 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
       category: 'Conference Staging',
       group: 'staging',
       desc: 'Multi-screen presentation stages, panelist podiums, lecterns, and acoustic baffles.',
-      image: '/service/7.png',
+      image: 'https://res.cloudinary.com/qxzn9vyt/image/upload/27',
       meta: 'AV INTEGRATION • FLUSH MONITOR MOUNT • ERGONOMIC PODIUMS'
     },
     {
@@ -510,7 +510,7 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
       category: 'Product Reveals',
       group: 'exhibitions',
       desc: 'Automotive turntable surrounds, luxury vitrines, kinetic reveal stages, and illuminated plinths.',
-      image: '/service/8.png',
+      image: 'https://res.cloudinary.com/qxzn9vyt/image/upload/28',
       meta: 'HIGH-LOAD CAPABILITY • DRAMATIC LIGHTING READY • BESPOKE'
     },
     {
@@ -521,7 +521,7 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
       category: 'Scenic & Dimensional Arts',
       group: 'commercial',
       desc: 'Oversized dimensional branding, thematic sculptural replicas, architectural archways, and motifs.',
-      image: '/service/9.png',
+      image: 'https://res.cloudinary.com/qxzn9vyt/image/upload/29',
       meta: 'FIBERGLASS / TIMBER / METAL • PRECISION SCALED • WEATHERPROOF'
     },
     {
@@ -532,7 +532,7 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
       category: 'Technical Enclosures',
       group: 'commercial',
       desc: 'Precision bezels, curved LED cabinet surrounds, recessed video walls, and maintenance access doors.',
-      image: '/service/10.png',
+      image: 'https://res.cloudinary.com/qxzn9vyt/image/upload/30',
       meta: 'HEAT DISSIPATION VENTS • ZERO SEAM GAP • FLUSH REVEALS'
     },
     {
@@ -543,7 +543,7 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
       category: 'Structural Integration',
       group: 'joinery',
       desc: 'Fabrication-clad lighting totems, hidden ground support towers, and architectural header spans.',
-      image: '/service/11.png',
+      image: 'https://res.cloudinary.com/qxzn9vyt/image/upload/31',
       meta: 'TÜV CERTIFIED FASTENERS • CONCEALED BALLAST • MATTE CLADDING'
     },
     {
@@ -554,7 +554,7 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
       category: 'Architectural Joinery',
       group: 'joinery',
       desc: 'Bespoke conference tables, VIP curved banquette seating, branded coffee bars, and console desks.',
-      image: '/service/12.png',
+      image: 'https://res.cloudinary.com/qxzn9vyt/image/upload/32',
       meta: 'HARDWOOD & VENEER • WIRE MANAGEMENT • LUXURY HPL'
     },
     {
@@ -565,7 +565,7 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
       category: 'Site Operations & Handover',
       group: 'joinery',
       desc: 'Laser-level assembly, seamless lacquer micro-touchups, lighting commissioning, and 24/7 handover.',
-      image: '/service/13.png',
+      image: 'https://res.cloudinary.com/qxzn9vyt/image/upload/33',
       meta: 'ACCREDITED VENUE CREWS • CLEAN-ROOM HANDOVER • STANDBY TEAM'
     },
   ];
@@ -1017,7 +1017,7 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
 
                 <div className="relative overflow-hidden bg-charcoal border border-charcoal/20 shadow-architectural">
                   <img
-                    src="/services/hero.png"
+                    src="https://res.cloudinary.com/qxzn9vyt/image/upload/herooooo"
                     alt="Pioneer Carpentry custom exhibition stand fabrication in UAE"
                     className="w-full h-[460px] sm:h-[520px] lg:h-[580px] object-cover object-center filter brightness-[0.98] contrast-[1.03] transition-transform duration-700 group-hover:scale-103"
                     loading="eager"
@@ -1455,7 +1455,7 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
       >
         <div className="absolute inset-0">
           <img
-            src="/images/hero-pavilion.jpg"
+            src="https://res.cloudinary.com/qxzn9vyt/image/upload/services-planning-table"
             alt="Completed bespoke exhibition and corporate event environment in UAE by Pioneer Carpentry"
             className="w-full h-full object-cover object-center filter brightness-[0.20] contrast-[1.2]"
             loading="lazy"
@@ -1493,11 +1493,11 @@ export default function ServicesPage({ onOpenQuote, onNavigate }) {
             </button>
 
             <a
-              href="tel:+97165259878"
+              href="tel:+971509689671"
               className="w-full sm:w-auto px-10 py-4 bg-copper hover:bg-copper-hover text-white text-xs font-mono uppercase tracking-[0.2em] font-semibold transition-all duration-300 shadow-sm flex items-center justify-center gap-3 cursor-pointer group"
             >
               <Phone className="w-4 h-4" />
-              <span>CALL +971 6 525 9878</span>
+              <span>CALL +971 50 968 9671</span>
             </a>
           </div>
 

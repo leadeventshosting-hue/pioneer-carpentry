@@ -40,7 +40,7 @@ export default function VisualTransformation() {
       step: '03',
       phase: 'EXPERIENCE',
       label: 'Completed Exhibition Pavilion Installation',
-      image: '/images/trans-03-experience.jpg',
+      image: 'https://res.cloudinary.com/qxzn9vyt/image/upload/complete',
       icon: Sparkles,
       tag: 'STAGE 03 // LIVE VENUE LAUNCH',
       description: 'The finished branded pavilion standing tall on the trade show floor, fully illuminated with warm concealed LED lines and luxury custom joinery finishes.',

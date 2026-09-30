@@ -19,7 +19,7 @@ export default function BrandStatement() {
       title: 'STRUCTURE',
       subtitle: 'Workshop Assembly & Fabrication',
       icon: Hammer,
-      image: '/images/trans-02-workshop.jpg',
+      image: 'https://res.cloudinary.com/qxzn9vyt/image/upload/trans-02-workshop',
       caption: 'CNC cutting, steel framing, modular timber carpentry, and acoustic cladding in Sharjah facility.',
     },
     {

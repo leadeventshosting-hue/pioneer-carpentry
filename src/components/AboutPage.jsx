@@ -265,7 +265,7 @@ export default function AboutPage({ onOpenQuote, onNavigateHome }) {
         {/* Full-Bleed Background Image with Dark Architectural Vignette Overlay */}
         <div className="absolute inset-0 z-0 overflow-hidden">
           <img
-            src="/about/hero.png"
+            src="https://res.cloudinary.com/qxzn9vyt/image/upload/hero"
             alt="Pioneer Carpentry Fabrication Facility UAE"
             className="w-full h-full object-cover object-center filter brightness-[0.55] contrast-[1.2]"
           />
@@ -460,7 +460,7 @@ export default function AboutPage({ onOpenQuote, onNavigateHome }) {
             <div className="lg:col-span-6 relative">
               <div className="relative aspect-[4/3] sm:aspect-[16/11] w-full overflow-hidden bg-charcoal shadow-2xl group border border-[#E2DDD5]">
                 <img
-                  src="/about/who.png"
+                  src="https://res.cloudinary.com/qxzn9vyt/image/upload/who"
                   alt="Precision Joinery Workshop Detail Pioneer Carpentry UAE"
                   className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-700 filter brightness-[0.9] contrast-[1.05]"
                 />

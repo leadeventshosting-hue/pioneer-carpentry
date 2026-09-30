@@ -6,7 +6,7 @@ export default function CallToAction({ onOpenQuote }) {
   const ctaSchema = {
     '@context': 'https://schema.org',
     '@type': 'ContactPoint',
-    telephone: '+97165259878',
+    telephone: '+971509689671',
     contactType: 'sales & estimation',
     email: 'info@pioneerexhibitions.ae',
     areaServed: ['United Arab Emirates'],
@@ -31,7 +31,7 @@ export default function CallToAction({ onOpenQuote }) {
       <div className="absolute inset-0 z-0">
         <img
           src="/images/craft-finish-detail.jpg"
-          alt="Pioneer Carpentry Custom Woodworking & Exhibition Joinery Craftsmanship UAE"
+          alt="Pioneer Carpentry LLC Custom Woodworking & Exhibition Joinery Craftsmanship UAE"
           className="w-full h-full object-cover object-center brightness-[0.45] contrast-[1.1] scale-105"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-charcoal via-charcoal/80 to-charcoal/60" />
@@ -82,12 +82,12 @@ export default function CallToAction({ onOpenQuote }) {
             </button>
 
             <a
-              href="tel:+97165259878"
-              aria-label="Call Pioneer Carpentry direct phone line +971 6 525 9878"
+              href="tel:+971509689671"
+              aria-label="Call Pioneer Carpentry LLC direct phone line +971 50 968 9671"
               className="bg-copper hover:bg-copper-hover text-white text-xs uppercase tracking-[0.2em] font-semibold px-9 py-4 flex items-center justify-center gap-3 transition-all duration-300 shadow-copper-sm hover:shadow-copper-lg group cursor-pointer"
             >
               <Phone className="w-4 h-4" />
-              <span>+971 6 525 9878</span>
+              <span>+971 50 968 9671</span>
             </a>
           </div>
 

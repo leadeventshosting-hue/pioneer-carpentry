@@ -165,8 +165,8 @@ export default function Footer({ onOpenQuote, onNavigate, currentPage = 'home' }
 
               <div className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-copper shrink-0" />
-                <a href="tel:+97165259878" className="hover:text-copper transition-colors">
-                  +971 6 525 9878
+                <a href="tel:+971509689671" className="hover:text-copper transition-colors">
+                  +971 50 968 9671
                 </a>
               </div>
 
@@ -189,7 +189,7 @@ export default function Footer({ onOpenQuote, onNavigate, currentPage = 'home' }
 
             <div className="pt-2 flex flex-wrap items-center gap-6">
               <a
-                href="https://maps.google.com/?q=Warehouse+1+Sheikh+Khalifa+Bin+Zayed+Al+Nahyan+Rd+Industrial+Area+4+Sharjah+UAE"
+                href="https://maps.app.goo.gl/pjGaMJmP8q9UH3bx8"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-xs font-mono tracking-[0.18em] uppercase text-copper font-semibold hover:underline cursor-pointer"
@@ -226,7 +226,7 @@ export default function Footer({ onOpenQuote, onNavigate, currentPage = 'home' }
         {/* Bottom Copyright & Legal */}
         <div className="pt-10 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-mono text-warmgrey">
           <div>
-            © Pioneer Carpentry. All Rights Reserved.
+            © Pioneer Carpentry LLC. All Rights Reserved.
           </div>
           <div className="flex items-center gap-6">
             <span>DESIGN → FABRICATION → BUILD → INSTALLATION</span>

@@ -41,7 +41,7 @@ export default function Hero({ onOpenQuote, onNavigate }) {
           className="w-full h-full"
         >
           <img
-            src="/images/hero-main.jpg"
+            src="https://res.cloudinary.com/qxzn9vyt/image/upload/hero-main"
             alt="Pioneer Carpentry Exhibition Fabrication"
             className="w-full h-full object-cover object-center brightness-[0.78] contrast-[1.05]"
           />
